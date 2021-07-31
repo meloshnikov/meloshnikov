@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 ### My stats
 <!--START_SECTION:waka-->
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
