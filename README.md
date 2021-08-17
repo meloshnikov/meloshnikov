@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### My stats
 <!--START_SECTION:waka-->
 ```text
-HTML         59 mins         █████████░░░░░░░░░░░░░░░░   35.36 % 
-JSON         48 mins         ███████▒░░░░░░░░░░░░░░░░░   28.94 % 
-JavaScript   27 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Markdown     21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-YAML         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+HTML         58 mins         ███████████░░░░░░░░░░░░░░   44.32 % 
+JSON         30 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.19 % 
+JavaScript   26 mins         █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+Markdown     7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+YAML         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 ```
 <!--END_SECTION:waka-->
 
