@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### My stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   4 mins          ████████████████████████▓   98.64 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
