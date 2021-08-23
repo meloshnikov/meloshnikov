@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 ### My stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   3 hrs           ██████████████████████▓░░   90.24 % 
+HTML         17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 <!--END_SECTION:waka-->
 
