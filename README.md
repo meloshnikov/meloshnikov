@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 ### My stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 min           █████████████████████████   100.00 % 
+JavaScript   1 hr 30 mins    ███████████████████████░░   91.97 % 
+JSON         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Makefile     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 ```
 <!--END_SECTION:waka-->
 
