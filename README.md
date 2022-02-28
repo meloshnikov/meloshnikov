@@ -29,9 +29,12 @@ Here are some ideas to get you started:
 
 ### My stats
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   6 hrs 5 mins    ██████████████████████▓░░   90.51 % 
-CSS          38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+JavaScript   4 hrs 51 mins   ███████████████████████░░   92.51 %
+CSS          23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
+
 <!--END_SECTION:waka-->
 
