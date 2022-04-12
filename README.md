@@ -1,9 +1,9 @@
 ## Hi there, I'm Roman Meloshnikov 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aldangold.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aldangold)
 
 <!--
-**Surtt/Surtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aldangold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a>
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=aldangold&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </a>
-<a href="https://github.com/surtt/github-readme-stats">
+<a>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldangold&layout=compact&hide_border=true" />
 </a>
 </span>
