@@ -1,6 +1,6 @@
 ## Hi there, I'm Roman Meloshnikov 👋
 
-![image](https://www.codewars.com/users/aldangold/badges/small)
+![image](https://www.codewars.com/users/aldangold/badges/micro)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aldangold)
 
