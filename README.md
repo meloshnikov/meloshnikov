@@ -1,7 +1,7 @@
 ## Hi there, I'm Roman Meloshnikov 👋
 
-![image](https://www.codewars.com/users/aldangold/badges/small?theme=light)<br>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aldangold)
+![image](https://www.codewars.com/users/meloshnikov/badges/small?theme=light)<br>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aldangold&left_color=yellow&right_color=gray)
 
 <!--
 **aldangold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 <span>
 <a>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=aldangold&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=meloshnikov&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </a>
 <a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldangold&layout=compact&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meloshnikov&layout=compact&hide_border=true" />
 </a>
 </span>
 
