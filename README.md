@@ -1,7 +1,7 @@
 ## Hi there, I'm Roman Meloshnikov 👋
 
 ![image](https://www.codewars.com/users/meloshnikov/badges/small?theme=light)<br>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aldangold&left_color=yellow&right_color=gray)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aldangold&left_color=blue&right_color=lightgray)
 
 <!--
 **aldangold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
