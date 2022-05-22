@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 - 🧰 I’m currently open to work
-- 🌱 I’m currently sudied at the Hexlet
+- 🌱 I’m currently studying at the Hexlet
 - 📫 How to reach me: meloshnikovrv@gmail.com | [@meloshnikov](https://telegram.me/meloshnikov)
 
 <span>
