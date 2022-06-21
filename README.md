@@ -36,8 +36,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JSON         23 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.14 %
-Other        22 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.41 %
+Markdown     1 hr 53 mins    █████████░░░░░░░░░░░░░░░░   35.79 %
+JSON         1 hr 10 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.46 %
+Other        34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
 ```
 
 <!--END_SECTION:waka-->
