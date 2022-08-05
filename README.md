@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🧰 I’m currently open to work
 - 🌱 I’m currently studying at the Hexlet
-- 📫 How to reach me: job@zeon.ga | [@meloshnikov](https://telegram.me/meloshnikov)
+- 📫 How to reach me: dev@zeon.ga | [@meloshnikov](https://telegram.me/meloshnikov)
 
 <span>
 <a>
