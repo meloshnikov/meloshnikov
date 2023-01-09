@@ -1,7 +1,6 @@
 ## Hi there, I'm Roman Meloshnikov 👋
 
 ![image](https://www.codewars.com/users/aldangold/badges/small?theme=light)<br>
-[![wakatime](https://wakatime.com/badge/user/d09e294b-6d7c-49a4-a5e4-ab57b5e25fb8.svg)](https://wakatime.com/@d09e294b-6d7c-49a4-a5e4-ab57b5e25fb8)<br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aldangold)
 
 <!--
