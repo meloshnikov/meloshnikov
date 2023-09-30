@@ -1,7 +1,6 @@
 ## Hi there, I'm Roman Meloshnikov 👋
 
 ![image](https://www.codewars.com/users/meloshnikov/badges/small?theme=light)<br>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aldangold)
 
 <!--
 Here are some ideas to get you started:
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🧰 I’m currently open to work
 - 🌱 I’m currently studying at the Hexlet
-- 📫 How to reach me: dev@zeon.ga | [@meloshnikov](https://telegram.me/meloshnikov)
+- 📫 How to reach me: meloshnikovrv@gmail.com | [@meloshnikov](https://telegram.me/meloshnikov)
 
 <span>
 <a>
@@ -32,12 +31,13 @@ Here are some ideas to get you started:
 ### My stats
 <!--START_SECTION:waka-->
 
-```txt
-JavaScript   5 hrs 18 mins   ████████████████████████░   96.58 %
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Makefile     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+```text
+TypeScript   28 hrs 47 mins  ███████████████████████▒░   93.79 %
+JSON         52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+CSS          41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+YAML         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+JavaScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
