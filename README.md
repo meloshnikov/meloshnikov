@@ -1,6 +1,7 @@
-## Hi there, I'm Roman Meloshnikov 👋
+<!-- ## Hi there, I'm Roman Meloshnikov 👋 -->
 
-![image](https://www.codewars.com/users/meloshnikov/badges/small?theme=light)<br>
+<!-- !
+[image](https://www.codewars.com/users/meloshnikov/badges/small?theme=light)<br> -->
 
 <!--
 Here are some ideas to get you started:
