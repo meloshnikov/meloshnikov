@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   6 hrs 7 mins    ████████████████████████░   95.34 %
-JSON         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+TypeScript   2 hrs 28 mins   ███████████████████████▓░   94.16 %
+JSON         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
