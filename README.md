@@ -33,8 +33,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 6 mins     █████████████████████████   99.52 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+TypeScript   2 hrs 27 mins   ██████████████████████▒░░   89.70 %
+CSS          11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka-->
