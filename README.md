@@ -33,11 +33,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 50 mins   ███████████████████████░░   91.81 %
-Markdown     6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-Bash         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Makefile     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+TypeScript   1 hr 10 mins    ████████████████████████░   96.38 %
+Bash         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
