@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   26 mins         ██████████████████░░░░░░░   72.29 %
-Bash         10 mins         ███████░░░░░░░░░░░░░░░░░░   27.71 %
+Bash         4 mins          ██████████████▓░░░░░░░░░░   58.54 %
+TypeScript   3 mins          ██████████▒░░░░░░░░░░░░░░   41.46 %
 ```
 
 <!--END_SECTION:waka-->
