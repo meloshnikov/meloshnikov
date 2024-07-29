@@ -33,11 +33,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     22 mins         ████████░░░░░░░░░░░░░░░░░   31.39 %
-JSON         21 mins         ███████▒░░░░░░░░░░░░░░░░░   29.86 %
-JavaScript   17 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.26 %
-Makefile     9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
