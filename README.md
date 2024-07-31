@@ -33,7 +33,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   27 mins         ██████████░░░░░░░░░░░░░░░   40.56 %
+JSON         18 mins         ███████░░░░░░░░░░░░░░░░░░   27.38 %
+Git Config   8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
+Makefile     6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
+Other        2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
 ```
 
 <!--END_SECTION:waka-->
