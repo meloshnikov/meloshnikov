@@ -33,7 +33,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Pug          2 hrs 45 mins   ████████████████████▒░░░░   81.55 %
+JavaScript   36 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.94 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
