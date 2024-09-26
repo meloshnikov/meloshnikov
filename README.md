@@ -33,9 +33,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Pug          2 hrs 45 mins   ████████████████████▒░░░░   81.55 %
-JavaScript   36 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.94 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Pug          2 hrs 50 mins   ██████████████░░░░░░░░░░░   55.90 %
+JavaScript   2 hrs 13 mins   ███████████░░░░░░░░░░░░░░   43.75 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
