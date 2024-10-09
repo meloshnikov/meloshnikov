@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   43 mins         ███████████████▓░░░░░░░░░   62.89 %
-Pug          25 mins         █████████▒░░░░░░░░░░░░░░░   37.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
