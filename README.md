@@ -33,7 +33,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Docker       4 mins          █████████████████████░░░░   84.27 %
+Makefile     0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+JSON         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+TypeScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
 ```
 
 <!--END_SECTION:waka-->
