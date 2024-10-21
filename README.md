@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Pug          1 hr 18 mins    █████████▓░░░░░░░░░░░░░░░   38.27 %
-JavaScript   1 hr 15 mins    █████████░░░░░░░░░░░░░░░░   36.47 %
-JSON         31 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
-Docker       16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
-Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+JavaScript   6 hrs 12 mins   █████████████░░░░░░░░░░░░   52.03 %
+Pug          3 hrs 26 mins   ███████▒░░░░░░░░░░░░░░░░░   28.90 %
+JSON         1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
+YAML         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Docker       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 ```
 
 <!--END_SECTION:waka-->
