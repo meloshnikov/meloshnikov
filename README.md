@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   6 hrs 17 mins   █████████████████████▒░░░   85.23 %
-JSON         45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
-Markdown     11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Makefile     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+JavaScript   4 hrs 24 mins   █████████████████████▒░░░   84.91 %
+JSON         31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
+Markdown     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Makefile     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
