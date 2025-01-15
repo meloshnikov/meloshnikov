@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby           1 hr 3 mins     █████████████████▓░░░░░░░   71.15 %
-ERB            14 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
-JavaScript     4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-Text           2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-Makefile       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Ruby           1 hr 3 mins     ████████████████▓░░░░░░░░   66.96 %
+ERB            21 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.67 %
+JavaScript     4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Text           2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Makefile       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 ```
 
 <!--END_SECTION:waka-->
