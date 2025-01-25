@@ -33,10 +33,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby       15 mins         █████████████████▓░░░░░░░   70.79 %
-ERB        4 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.67 %
-Makefile   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Ruby       8 mins          █████████████████████▒░░░   85.34 %
+Makefile   1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
 ```
 
 <!--END_SECTION:waka-->
