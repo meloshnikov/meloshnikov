@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby       8 mins          █████████████████████▒░░░   85.34 %
-Makefile   1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
