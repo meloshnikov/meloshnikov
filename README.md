@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   20 hrs 50 mins  ██████████████████████░░░   87.97 %
-Markdown     1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-TSConfig     36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Docker       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+TypeScript   20 hrs 27 mins  ███████████████████████▓░   94.45 %
+Markdown     39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Bash         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+YAML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
