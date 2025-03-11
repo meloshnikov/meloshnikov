@@ -33,11 +33,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         1 hr 3 mins     ████████████████░░░░░░░░░   64.11 %
-INI          13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
-Other        11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
-Bash         7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
-Makefile     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
