@@ -33,9 +33,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   0 secs          ██████████████████████▓░░   90.66 %
-HTML         0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+YAML         48 mins         ███████████████░░░░░░░░░░   59.52 %
+Jinja2       12 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
+Config       10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
+Markdown     7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
