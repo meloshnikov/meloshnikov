@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML       55 mins         ███████████████▒░░░░░░░░░   61.84 %
-Jinja2     12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
-Config     10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
-Markdown   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
-Python     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+TypeScript   3 hrs 12 mins   ███████████████████████▓░   94.72 %
+YAML         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+Python       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
