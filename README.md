@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   0 secs          ████████████████████████░   95.66 %
-Bash       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+Markdown   0 secs                ████████████████████████░   95.66 %
+Bash       0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
 ```
 
 <!--END_SECTION:waka-->
