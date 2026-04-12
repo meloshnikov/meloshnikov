@@ -33,7 +33,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     1 hr 21 mins          █████████████▒░░░░░░░░░░░   53.26 %
+TypeScript   1 hr 4 mins           ██████████▓░░░░░░░░░░░░░░   42.12 %
+Other        4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Bash         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
