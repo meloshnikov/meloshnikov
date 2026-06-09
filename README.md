@@ -33,11 +33,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         43 mins               ███████████████▓░░░░░░░░░   62.75 %
-Bash         11 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
-Other        10 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
-Git Config   2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-INI          0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
