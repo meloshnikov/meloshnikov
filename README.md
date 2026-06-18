@@ -33,11 +33,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 19 mins          ███████████▓░░░░░░░░░░░░░   47.08 %
-Markdown     1 hr 12 mins          ██████████▓░░░░░░░░░░░░░░   42.48 %
-CSV          5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-Bash         4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-Git Config   4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Markdown     34 mins               ████████████▓░░░░░░░░░░░░   50.42 %
+TypeScript   33 mins               ████████████▒░░░░░░░░░░░░   49.58 %
 ```
 
 <!--END_SECTION:waka-->
