@@ -33,7 +33,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other      1 hr 47 mins          █████████████████▓░░░░░░░   70.34 %
+Markdown   24 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
+Python     21 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
+Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
