@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other      1 hr 47 mins          █████████████████▓░░░░░░░   70.34 %
-Markdown   24 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
-Python     21 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
+Other      1 hr 50 mins          ███████████████▓░░░░░░░░░   62.02 %
+Markdown   46 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.98 %
+Python     21 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
 Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
