@@ -33,10 +33,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other      1 hr 50 mins          ███████████████▓░░░░░░░░░   62.02 %
-Markdown   46 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.98 %
-Python     21 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
-Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown     3 hrs 4 mins          ████████▓░░░░░░░░░░░░░░░░   35.28 %
+Other        1 hr 51 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.37 %
+TypeScript   1 hr 46 mins          █████░░░░░░░░░░░░░░░░░░░░   20.38 %
+SQL          36 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+Git Config   32 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
 ```
 
 <!--END_SECTION:waka-->
