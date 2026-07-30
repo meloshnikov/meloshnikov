@@ -33,7 +33,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     5 hrs 37 mins         ████████████████▓░░░░░░░░   66.84 %
+TypeScript   1 hr 43 mins          █████░░░░░░░░░░░░░░░░░░░░   20.58 %
+HTML         27 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+CSS          13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+JavaScript   6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
