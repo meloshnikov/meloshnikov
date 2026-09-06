@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   8 hrs 54 mins         ███████████████▒░░░░░░░░░   61.96 %
+TypeScript   8 hrs 54 mins         ███████████████▒░░░░░░░░░   61.95 %
 Markdown     3 hrs 19 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.09 %
 Other        44 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
 Bash         38 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
